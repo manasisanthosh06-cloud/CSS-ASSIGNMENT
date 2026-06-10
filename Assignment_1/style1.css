@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman";
+}
+
+.container {
+    border: 2px solid blue;
+    background-color: #eeeeee;
+    padding: 15px;
+    min-height: 330px;
+}
+
+p {
+    font-size: 32px;
+    margin: 0;
+}
+
+a {
+    display: inline-block;
+    margin-top: 40px;
+    font-size: 34px;
+    font-weight: bold;
+    color: #5a2ca0;
+}
